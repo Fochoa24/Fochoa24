@@ -10,7 +10,7 @@
         <li>📚 &nbsp; I'm currently studying at <a href="https://www.unab.cl/">UNAB</a></li>
         <li>🫵 &nbsp; I'm looking forward to collaborate on open source projects. </li>
         <li>🤔 &nbsp; Interested in Machine Learning and Software development</li>
-         <li>📫 &nbsp; Reach out to me at: <a href="f.alonso8ajohn@gmail.com">f.alonso8ajohn@gmail.com</a></li>
+         <li>📫 &nbsp; Reach out to me at: <a href="f.alonso8ajohn@gmail.com">gmail</a></li>
        </ul>
        <p align="center">
 
